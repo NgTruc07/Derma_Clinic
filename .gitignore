@@ -1,0 +1,16 @@
+# Bỏ qua file và thư mục do Visual Studio tạo ra
+
+.vs/
+*.suo
+*.user
+
+# Bỏ thư mục chứa file build
+bin/
+obj/
+
+# Bỏ thư viện nuget tải về
+packages/
+
+# Bỏ file tạm
+*.tmp
+*.log
