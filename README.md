@@ -23,7 +23,7 @@ This C# Windows Forms application automates various clinic workflows such as:
 
 ## Project Documents
 
--  **Final report**: (https://docs.google.com/document/d/1wRvi-k0NkXiOzmVIT_a9aVrqkvR73fFX/edit?usp=drive_link)
+-  **Final report**: (https://docs.google.com/document/d/1wRvi-k0NkXiOzmVIT_a9aVrqkvR73fFX/edit?usp=drive_link&ouid=111288402004499118968&rtpof=true&sd=true)
 -  **Presentation slides**: (https://drive.google.com/file/d/1zkdtVwfImhNgeCKaWBjJxEiqoHRcVy4I/view?usp=drive_link)
 
 ---
